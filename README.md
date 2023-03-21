@@ -172,8 +172,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
 ## output :
-![image](https://user-images.githubusercontent.com/118343461/226547887-69b71c87-1b87-47a1-936c-ca42ad1d84d7.png)
-![image](https://user-images.githubusercontent.com/118343461/226548150-90126b2b-0e82-45ad-a68d-333722f9e7f0.png)
+![image](https://user-images.githubusercontent.com/118343461/226547887-69b71c87-1b87-47a1-936c-ca42ad1d84d7.png
 
 
  
