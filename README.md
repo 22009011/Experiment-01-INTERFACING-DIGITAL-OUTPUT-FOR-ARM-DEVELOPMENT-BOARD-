@@ -80,6 +80,9 @@ The main features of LPC2148 include the following.
 
 ## STM 32 CUBE PROGRAM :
 ```
+Developed by: K.THANJIYAPPAN
+Registration No: 212222240108
+
 #include "main.h"
 
 
@@ -215,9 +218,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
 
+## output off :
+![image](https://user-images.githubusercontent.com/118343461/226531571-5daeaae4-9793-4ef2-b5c4-660cfa5aa7df.png)
 
-## Output  :
-![image](https://user-images.githubusercontent.com/118343461/226530521-03fc43a0-4ec2-4e51-add3-7ac67b8eb971.png)
+
+## Output on :
+![Uploading image.png…]()
+
  
  
  
